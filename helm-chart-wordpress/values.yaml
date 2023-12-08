@@ -1,6 +1,6 @@
 # Default values for site.
 
-replicaCount: 1
+replicaCount: 2
 
 imageWordpress:
   repository: wordpress
